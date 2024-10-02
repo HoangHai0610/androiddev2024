@@ -1,0 +1,37 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">Thời Tiết USTH</string>
+
+    <string name="Monday">Thứ Hai</string>
+    <string name="Tuesday">Thứ Ba</string>
+    <string name="Wednesday">Thứ Tư</string>
+    <string name="Thursday">Thứ Năm</string>
+    <string name="Friday">Thứ Sáu</string>
+    <string name="Saturday">Thứ Bảy</string>
+    <string name="Sunday">Chủ Nhật</string>
+
+
+    <string name="temp_24_26">24C - 26C</string>
+    <string name="temp_24_31">24C - 31C</string>
+    <string name="temp_24_27">24C - 27C</string>
+    <string name="temp_22_23">22C - 23C</string>
+    <string name="temp_22_27">22C - 27C</string>
+    <string name="temp_22_30">22C - 30C</string>
+    <string name="temp_25_28">25C - 28C</string>
+
+    <string name="cloud_description">Biểu tượng mây</string>
+
+    <string name="Cloud">Có Mây</string>
+
+    <string name="Hanoi">Hà Nội</string>
+    <string name="Paris">Paris</string>
+    <string name="Tokyo">Tokyo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+=======
+    <string name="app_name">USTH Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+>>>>>>> 478f6c5082b1352364bd0df598a281a150462070
