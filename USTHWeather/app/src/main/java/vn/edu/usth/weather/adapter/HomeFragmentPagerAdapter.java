@@ -11,7 +11,7 @@ import vn.edu.usth.weather.fragment.WeatherAndForecastFragmentParis;
 import vn.edu.usth.weather.fragment.WeatherAndForecastFragmentTokyo;
 
 public class HomeFragmentPagerAdapter extends FragmentPagerAdapter {
-    private final String[] titles = new String[]{"HÀ NỘI, VIỆT NAM","PARI, PHÁP","TOKYO, NHẬT BẢN"};
+    private final String[] titles = new String[]{"HÀ NỘI, VIỆT NAM","PARIS, PHÁP","TOKYO, NHẬT BẢN"};
     public HomeFragmentPagerAdapter(@NonNull FragmentManager fm) {
         super(fm);
     }

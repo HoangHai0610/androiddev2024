@@ -2,13 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-<<<<<<< HEAD
     <uses-permission
         android:name="android.permission.WRITE_EXTERNAL_STORAGE"
         android:maxSdkVersion="32" />
 
-=======
->>>>>>> 478f6c5082b1352364bd0df598a281a150462070
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -20,7 +17,6 @@
         android:theme="@style/Theme.USTHWeather"
         tools:targetApi="31">
         <activity
-<<<<<<< HEAD
             android:name=".activity.PrefActivity"
             android:exported="false" />
         <activity
@@ -28,9 +24,6 @@
             android:exported="true" />
         <activity
             android:name=".activity.WeatherActivity"
-=======
-            android:name=".WeatherActivity"
->>>>>>> 478f6c5082b1352364bd0df598a281a150462070
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

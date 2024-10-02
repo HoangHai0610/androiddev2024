@@ -1,5 +1,4 @@
 <resources>
-<<<<<<< HEAD
     <string name="app_name">Thời Tiết USTH</string>
 
     <string name="Monday">Thứ Hai</string>
@@ -29,9 +28,3 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
-=======
-    <string name="app_name">USTH Weather</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-</resources>
->>>>>>> 478f6c5082b1352364bd0df598a281a150462070
